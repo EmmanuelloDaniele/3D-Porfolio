@@ -131,7 +131,7 @@ const experiences = [
   {
     title: "Ingegneria dell'innovazione per le imprese digitali",
     company_name: "Unipa",
-    icon: unipa,
+    icon: starbucks,
     iconBg: "#383E56",
     date: "Settembre 2017 - Luglio 2023",
     points: [
