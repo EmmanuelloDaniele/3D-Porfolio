@@ -20,6 +20,7 @@ import {
   tesla,
   giga,
   unipa,
+  disploma,
   shopify,
   carrent,
   jobit,
@@ -122,7 +123,7 @@ const experiences = [
     company_name: "Finanza & Marketing",
     icon: diploma,
     iconBg: "#383E56",
-    date: "Settembre 2015 - Luglio 2017",
+    date: "Novembre 2015 - Luglio 2017",
     points: [
       "Durante il percorso di studi ho avuto la possibilità di approfondire lo studio sui linguaggi di programmazione C,Java,R e scripting linux.",
       "Ho avuto la possibilità di collaborare con diversi colleghi per la preparazione di progetti e esami.",
