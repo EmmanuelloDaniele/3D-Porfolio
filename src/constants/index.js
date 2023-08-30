@@ -150,9 +150,8 @@ const experiences = [
     iconBg: "#383E56",
     date: "Settembre 2023 - In corso",
     points: [
-      "Durante il percorso di studi ho avuto la possibilità di approfondire lo studio sui linguaggi di programmazione C,Java,R e scripting linux.",
-      "Ho avuto la possibilità di collaborare con diversi colleghi per la preparazione di progetti e esami.",
-      "In contemporanea agli studi ho svolto diversi lavori finchè la voglia di affinare le mie compotenze informatiche mi ha portato a inizio 2020 a decidere di concentrarmi sugli studi.",
+      
+      
       
     ],
   },
@@ -164,7 +163,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+      "Ha reso possibile mettere online il mio sito per come lo avevo immagginato e disegnato.",
     name: "Sara Lee",
     designation: "CFO",
     company: "Acme Co",
@@ -172,7 +171,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "Non ho mai incotrato un web developer che si prendesse cura cosi dei clienti.",
     name: "Chris Brown",
     designation: "COO",
     company: "DEF Corp",
@@ -180,7 +179,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "Dopo l'ottimizzazione di Daniele , il traffico nel nostro sito è incrementato del 50%, Noi non possiamo ringraziarlo abbastanza!",
     name: "Lisa Wang",
     designation: "CTO",
     company: "456 Enterprises",
