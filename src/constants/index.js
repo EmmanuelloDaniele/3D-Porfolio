@@ -118,11 +118,11 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Ingegneria dell'innovazione per le imprese digitali",
-    company_name: "Unipa",
-    icon: unipa,
+    title: "Diploma Ragioneria Finanza & Marketing",
+    company_name: "Finanza & Marketing",
+    icon: diploma,
     iconBg: "#383E56",
-    date: "Settembre 2017 - Luglio 2023",
+    date: "Settembre 2015 - Luglio 2017",
     points: [
       "Durante il percorso di studi ho avuto la possibilità di approfondire lo studio sui linguaggi di programmazione C,Java,R e scripting linux.",
       "Ho avuto la possibilità di collaborare con diversi colleghi per la preparazione di progetti e esami.",
