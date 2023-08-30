@@ -131,7 +131,7 @@ const experiences = [
   {
     title: "Ingegneria dell'innovazione per le imprese digitali",
     company_name: "Unipa",
-    icon: starbucks,
+    icon: tesla,
     iconBg: "#383E56",
     date: "Settembre 2017 - Luglio 2023",
     points: [
@@ -144,7 +144,7 @@ const experiences = [
   {
     title: "Sviluppatore Web",
     company_name: "Giga Rent By Autolanciani",
-    icon: tesla,
+    icon: giga-rent,
     iconBg: "#E6DEDD",
     date: "Gennaio 2020 - Febbraio 2023",
     points: [
