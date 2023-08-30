@@ -125,9 +125,8 @@ const experiences = [
     iconBg: "#383E56",
     date: "Novembre 2015 - Luglio 2017",
     points: [
-      "Durante il percorso di studi ho avuto la possibilità di approfondire lo studio sui linguaggi di programmazione C,Java,R e scripting linux.",
-      "Ho avuto la possibilità di collaborare con diversi colleghi per la preparazione di progetti e esami.",
-      "In contemporanea agli studi ho svolto diversi lavori finchè la voglia di affinare le mie compotenze informatiche mi ha portato a inizio 2020 a decidere di concentrarmi sugli studi.",
+      "Oltre alle materie importanti per ogni indirizzo ho studiato Economia aziendale, informatica, diritto, economia politica, scienze delle finanze.",
+      
       
     ],
   },
@@ -157,45 +156,9 @@ const experiences = [
       
     ],
   },
-  {
-    title: "Sviluppatore Web",
-    company_name: "Giga Rent By Autolanciani",
-    icon: giga,
-    iconBg: "#E6DEDD",
-    date: "Gennaio 2020 - Febbraio 2023",
-    points: [
-      "",
-      "Durante il progetto ho avuto il piacere di collabore con i vari team funzione incluso il designers, product menagers e altri team di sviluppo per realizzare un prodotto di alta qualità.",
-      "Implementato un design responsive e compatibile con i vari browser di navigazione.",
-      
-    ],
-  },
-  {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
-    iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
+  
+ 
+  
 ];
 
 const testimonials = [
@@ -271,7 +234,7 @@ const projects = [
   {
     name: "Crypt Moore",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Piattaforma di e-learning per essere seguiti durante un percorso di trading visionando video lezioni sul portale CryptMoore.",
     tags: [
       {
         name: "wordpress",
