@@ -116,29 +116,29 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "Ingegneria dell'innovazione per le imprese digitali",
+    company_name: "Unipa",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "Settembre 2017 - Luglio 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Durante il percorso di studi ho avuto la possibilità di approfondire lo studio sui linguaggi di programmazione C,Java,R e scripting linux.",
+      "Ho avuto la possibilità di collaborare con diversi colleghi per la preparazione di progetti e esami.",
+      "In contemporanea agli studi ho svolto diversi lavori finchè la voglia di affinare le mie compotenze informatiche mi ha portato a inizio 2020 a decidere di concentrarmi sugli studi.",
+      
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
+    title: "Sviluppatore Web",
+    company_name: "Giga Rent By Autolanciani",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Gennaio 2020 - Febbraio 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Sviluppo della piattaforma di autonoleggio Giga-Rent con il mantentimento delle tecnologie utilizzate.",
+      "Durante il progetto ho avuto il piacere di collabore con i vari team funzione incluso il designers, product menagers e altri team di sviluppo per realizzare un prodotto di alta qualità.",
+      "Implementato un design responsive e compatibile con i vari browser di navigazione.",
+      
     ],
   },
   {
