@@ -212,7 +212,7 @@ const projects = [
   {
     name: "Love Italy",
     description:
-      "descrizione",
+      "Piattaforma di booking per hotel",
     tags: [
       {
         name: "css",
