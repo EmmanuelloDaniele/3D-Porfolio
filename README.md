@@ -1,8 +1,7 @@
 <a name="readme-top"></a>
 <div align="center">
 
-  ![Project Banner](readme_assets/readme_banner.png#gh-dark-mode-only)
-  ![Project Banner](readme_assets/readme_banner-light.png#gh-light-mode-only)
+  
 
   <h1>Three.js 3D Portfolio</h1>
   
@@ -12,23 +11,23 @@
 
 <!-- Badges -->
 <p>
-  <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/ladunjexa/Threejs_3D_Portfolio" alt="contributors" />
+  <a href="https://github.com/EmmanuelloDaniele/3D-Porfolio/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/EmmanuelloDaniele/3D-Porfolio/" alt="contributors" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/ladunjexa/Threejs_3D_Portfolio" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/EmmanuelloDaniele/3D-Porfolio" alt="last update" />
   </a>
-  <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/network/members">
-    <img src="https://img.shields.io/github/forks/ladunjexa/Threejs_3D_Portfolio" alt="forks" />
+  <a href="https://github.com/EmmanuelloDaniele/3D-Porfolio/network/members">
+    <img src="https://img.shields.io/github/forks/EmmanuelloDaniele/3D-Porfolio" alt="forks" />
   </a>
-  <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/stargazers">
-    <img src="https://img.shields.io/github/stars/ladunjexa/Threejs_3D_Portfolio" alt="stars" />
+  <a href="https://github.com/EmmanuelloDaniele/3D-Porfolio/stargazers">
+    <img src="https://img.shields.io/github/stars/EmmanuelloDaniele/3D-Porfolio" alt="stars" />
   </a>
-  <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/issues/">
-    <img src="https://img.shields.io/github/issues/ladunjexa/Threejs_3D_Portfolio" alt="open issues" />
+  <a href="https://github.com/EmmanuelloDaniele/3D-Porfolio/issues/">
+    <img src="https://img.shields.io/github/issues/EmmanuelloDaniele/3D-Porfolio" alt="open issues" />
   </a>
-  <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/ladunjexa/Threejs_3D_Portfolio.svg" alt="license" />
+  <a href="https://github.com/EmmanuelloDaniele/3D-Porfolio/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/EmmanuelloDaniele/Threejs_3D_Portfolio.svg" alt="license" />
   </a>
 </p>
    
