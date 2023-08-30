@@ -20,7 +20,7 @@ import {
   tesla,
   giga,
   unipa,
-  disploma,
+  diploma,
   shopify,
   carrent,
   jobit,
