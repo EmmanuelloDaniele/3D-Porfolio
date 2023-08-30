@@ -26,6 +26,7 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import giga from "./company/giga.png";
+import diploma from "./company/diploma.png";
 import unipa from "./company/unipa.png";
 
 import carrent from "./carrent.png";
@@ -60,6 +61,7 @@ export {
   tesla,
   giga,
   unipa,
+  diploma,
   carrent,
   jobit,
   tripguide,
