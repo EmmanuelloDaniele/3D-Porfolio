@@ -57,6 +57,7 @@ export {
   shopify,
   starbucks,
   tesla,
+  giga,
   carrent,
   jobit,
   tripguide,
