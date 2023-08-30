@@ -145,7 +145,7 @@ const experiences = [
   {
     title: "Sviluppatore Web",
     company_name: "Giga Rent By Autolanciani",
-    icon: giga,
+    icon: tesla,
     iconBg: "#E6DEDD",
     date: "Gennaio 2020 - Febbraio 2023",
     points: [
