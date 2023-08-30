@@ -12,7 +12,7 @@
 <!-- Badges -->
 <p>
   <a href="https://github.com/EmmanuelloDaniele/3D-Porfolio/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/EmmanuelloDaniele/3D-Porfolio/" alt="contributors" />
+    <img src="https://img.shields.io/github/contributors/EmmanuelloDaniele/3D-Porfolio" alt="contributors" />
   </a>
   <a href="">
     <img src="https://img.shields.io/github/last-commit/EmmanuelloDaniele/3D-Porfolio" alt="last update" />
