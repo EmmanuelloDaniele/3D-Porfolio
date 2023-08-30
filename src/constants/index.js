@@ -134,9 +134,22 @@ const experiences = [
   {
     title: "Ingegneria dell'innovazione per le imprese digitali",
     company_name: "Unipa",
-    icon: tesla,
+    icon: unipa,
     iconBg: "#383E56",
     date: "Settembre 2017 - Luglio 2023",
+    points: [
+      "Durante il percorso di studi ho avuto la possibilità di approfondire lo studio sui linguaggi di programmazione C,Java,R e scripting linux.",
+      "Ho avuto la possibilità di collaborare con diversi colleghi per la preparazione di progetti e esami.",
+      "In contemporanea agli studi ho svolto diversi lavori finchè la voglia di affinare le mie compotenze informatiche mi ha portato a inizio 2020 a decidere di concentrarmi sugli studi.",
+      
+    ],
+  },
+  {
+    title: "Ingegneria informatica - Inteliggenza Artificiale",
+    company_name: "Unipa",
+    icon: unipa,
+    iconBg: "#383E56",
+    date: "Settembre 2023 - In corso",
     points: [
       "Durante il percorso di studi ho avuto la possibilità di approfondire lo studio sui linguaggi di programmazione C,Java,R e scripting linux.",
       "Ho avuto la possibilità di collaborare con diversi colleghi per la preparazione di progetti e esami.",
@@ -151,7 +164,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Gennaio 2020 - Febbraio 2023",
     points: [
-      "Sviluppo della piattaforma di autonoleggio Giga-Rent con il mantentimento delle tecnologie utilizzate.",
+      "",
       "Durante il progetto ho avuto il piacere di collabore con i vari team funzione incluso il designers, product menagers e altri team di sviluppo per realizzare un prodotto di alta qualità.",
       "Implementato un design responsive e compatibile con i vari browser di navigazione.",
       
@@ -214,20 +227,20 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Giga Rent",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Sviluppo della piattaforma di autonoleggio Giga-Rent con il mantentimento delle tecnologie utilizzate.",
     tags: [
       {
-        name: "react",
+        name: "wordpress",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "css",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "html",
         color: "pink-text-gradient",
       },
     ],
@@ -235,16 +248,16 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "Love Italy",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "descrizione",
     tags: [
       {
-        name: "react",
+        name: "css",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "html",
         color: "green-text-gradient",
       },
       {
@@ -256,16 +269,16 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "Crypt Moore",
     description:
       "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
       {
-        name: "nextjs",
+        name: "wordpress",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "e-learning",
         color: "green-text-gradient",
       },
       {
