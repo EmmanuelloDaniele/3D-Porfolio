@@ -18,6 +18,7 @@ import {
   meta,
   starbucks,
   tesla,
+  giga,
   shopify,
   carrent,
   jobit,
