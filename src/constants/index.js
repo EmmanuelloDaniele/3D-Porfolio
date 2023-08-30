@@ -129,6 +129,19 @@ const experiences = [
     ],
   },
   {
+    title: "Ingegneria dell'innovazione per le imprese digitali",
+    company_name: "Unipa",
+    icon: unipa,
+    iconBg: "#383E56",
+    date: "Settembre 2017 - Luglio 2023",
+    points: [
+      "Durante il percorso di studi ho avuto la possibilità di approfondire lo studio sui linguaggi di programmazione C,Java,R e scripting linux.",
+      "Ho avuto la possibilità di collaborare con diversi colleghi per la preparazione di progetti e esami.",
+      "In contemporanea agli studi ho svolto diversi lavori finchè la voglia di affinare le mie compotenze informatiche mi ha portato a inizio 2020 a decidere di concentrarmi sugli studi.",
+      
+    ],
+  },
+  {
     title: "Sviluppatore Web",
     company_name: "Giga Rent By Autolanciani",
     icon: tesla,
