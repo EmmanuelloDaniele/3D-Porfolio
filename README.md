@@ -178,16 +178,14 @@ At the main folder execute the following command in console to run the developme
 <!-- License -->
 ## :warning: License
 
-Distributed under the MIT License. See [LICENSE.txt](https://github.com/ladunjexa/Threejs_3D_Portfolio/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE.txt](https://github.com/EmmanuelloDaniele/3D-Porfolio/blob/main/LICENSE) for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Contact -->
 ## :handshake: Contact
 
-Liron Abutbul - [@lironabutbul6](https://twitter.com/lironabutbul6) - [@ladunjexa](https://t.me/ladunjexa)
 
-Project Link: [https://github.com/ladunjexa/Threejs_3D_Portfolio](https://github.com/ladunjexa/Threejs_3D_Portfolio)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -204,6 +202,4 @@ This section used to mention useful resources and libraries that used in 3D Port
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<p align="center">
-<img src="https://github.com/ladunjexa/Threejs_3D_Portfolio/blob/main/public/logo.png" height="auto" width="10%" />
-</p>
+
