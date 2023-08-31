@@ -210,9 +210,9 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Love Italy",
+    name: "Car Rent",
     description:
-      "Piattaforma di booking per hotel",
+      "Piattaforma di comparazione auto.",
     tags: [
       {
         name: "css",
