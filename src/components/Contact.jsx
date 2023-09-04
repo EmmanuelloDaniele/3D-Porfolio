@@ -36,7 +36,7 @@ const Contact = () => {
           to_email: "daniele.emmanuello96@gmail.com",
           message: form.message,
         },
-        "ZAjD2IMOa9VxNA2N"
+        "dStVvf5V24rZB71mB"
       )
       .then(
         () => {
