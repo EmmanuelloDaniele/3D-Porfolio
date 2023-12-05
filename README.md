@@ -116,8 +116,8 @@ Threejs_3D_Portfolio/
 #### Step 1:
 Download or clone this repo by using the link below:
 
-```bash
- https://github.com/ladunjexa/Threejs_3D_Portfolio.git
+```bash 
+https://github.com/EmmanuelloDaniele/3D-Porfolio.git
 ```
 
 #### Step 2:
@@ -174,17 +174,9 @@ At the main folder execute the following command in console to run the developme
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- License -->
-## :warning: License
-
-Distributed under the MIT License. See [LICENSE.txt](https://github.com/EmmanuelloDaniele/3D-Porfolio/blob/main/LICENSE) for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- Contact -->
 ## :handshake: Contact
-
+<p dir="auto">Daniele Emmanuello - <a href="https://www.linkedin.com/in/emmanuellodaniele/" rel="nofollow">@Linkedin</a> -<a href="https://t.me/emmanuellodaniele"rel="nofollow">@Telegram</a></p>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
