@@ -144,7 +144,7 @@ const experiences = [
     ],
   },
   {
-    title: "Ingegneria informatica - Inteliggenza Artificiale",
+    title: "Ingegneria informatica - Intelligenza Artificiale",
     company_name: "Unipa",
     icon: unipa,
     iconBg: "#383E56",
